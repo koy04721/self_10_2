@@ -21,6 +21,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity   android:name=".ResultActivity" android:label="투표 결과" />
     </application>
 
 </manifest>
